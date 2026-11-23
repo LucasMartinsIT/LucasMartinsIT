@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://lucasmartins-portfolio.netlify.app/lucas-suit.png" alt="Lucas Martins" />
+<a href="https://github.com/LucasMartinsIT/Capybara-Zoo-Break"><img align="right" width="230" src="assets/capybara-run.gif" alt="Capybara Zoo Break gameplay — modeled, rigged and animated by me in Blender" title="Capybara Zoo Break — my own 3D model and game" /></a>
 
 **Computer Engineering student in my final year** at Facens, moving my career from IT Support and Customer Success into **Backend** and **Game Development**.
 
@@ -46,7 +46,7 @@ open_to:    Junior Software, Backend & Game Developer roles
 **Beyond the screen**
 - ☕ Certified professional barista — I brew a mean cup of coffee
 - 🌳 I cultivate bonsai and play the piano: patience and attention to detail that show up in my code
-- 🎨 3D artist in Blender (sculpting, low-poly, Rigify rigging) and Substance Painter
+- 🎨 3D artist in Blender (sculpting, low-poly, Rigify rigging) and Substance Painter — the capybara on the right is mine, from my game *Capybara Zoo Break* 🦫
 
 <br clear="right" />
 
