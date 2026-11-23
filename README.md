@@ -24,10 +24,6 @@
 
 <br>
 
-<div align="center">
-<img width="540" alt="banner" src="https://github.com/user-attachments/assets/59ca733f-324a-4812-80b7-dc4bdb8e3680" />
-</div>
-
 <!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
 
 ## 👨‍💻 About Me
@@ -178,7 +174,10 @@ open_to:    Junior Software, Backend & Game Developer roles
 
 <br><br>
 
-<img width="100%" alt="footer art" src="https://github.com/user-attachments/assets/5ef39936-00ea-4fea-accd-4ef237ad4bdc" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMartinsIT/LucasMartinsIT/output/snake-dark.svg" />
+  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/LucasMartinsIT/LucasMartinsIT/output/snake.svg" />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ee6d6,50:0a2a5c,100:050d24&height=120&section=footer" width="100%" />
 
